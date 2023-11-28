@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jezzythekid
 - 👀 I’m interested in Programming, lol
-- 🌱 I’m currently learning Electrical engineering
+- 🌱 I’m currently studying applied computer science
 
 <!---
 Jezzythekid/Jezzythekid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
