@@ -1,6 +1,6 @@
 # Hi, I’m @Jezzythekid
 
-- I am currently in my first year studying: _BSc. Applied Computer Science_ in the Netherlands (Saxion - Enschede).
+- I am currently in my second year studying: _BSc. Applied Computer Science_ in the Netherlands (Saxion - Enschede).
 - I finished _MBO4 Technicus Engineering (Electrical)_ in the Netherlands (ROC v. Twente - Hengelo).
 
 My interesses are:
